@@ -2,7 +2,7 @@
 A fork from Ghost Blog at https://github.com/TryGhost/Blog
 
 
-**My addin feature**
+**My adding feature**
 - Tag cover image for tag.hbs
 - Add new Navigation with edit button for post link.
 
